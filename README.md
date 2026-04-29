@@ -21,4 +21,4 @@ Power BI dashboard analyzing 16M+ e-commerce revenue data.
 
 ## Preview
 
-(Add your screenshot here after upload)
+<img width="1097" height="698" alt="Image" src="https://github.com/user-attachments/assets/e3000939-b347-40d7-874e-61312878efbb" />
